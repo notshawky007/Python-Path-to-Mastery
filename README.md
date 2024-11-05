@@ -19,31 +19,81 @@ This repository is a record of my in-depth journey to master Python fundamentals
 This journey is organized into modules, each focusing on specific programming fundamentals and practical applications in Python:
 
 1. **Introduction to Programming**  
-   Covers what programming is, how source code is written, and explores the Python ecosystem (IDE setup, running code).
+   - What is programming?
+   - What is a programming language?
+   - Writing source code
+   - Running your code
+   - Using an IDE (Integrated Development Environment)
+   - Why Python?  
+   - Installing Python and running it on the Command Line, VS Code, and online editors.
+   - Basic Statements and Expressions
+   - Troubleshooting Issues
 
 2. **Python Basics**  
-   Introduces Python syntax, variables, data types, and basic expressions.
+   - Syntax and structure of Python code
+   - Variables and Data Types
+   - Collections and Basic Operations
+   - Working with Numbers and Strings
+   - Properly using whitespaces and comments
 
 3. **Conditional Logic**  
-   How to make decisions in code using conditional statements across different programming languages.
+   - Making decisions in code
+   - Exploring conditional statements
+   - Working with simple and complex conditions
+   - Understanding conditional logic across different programming languages
 
 4. **Data Structures**  
-   Comprehensive exploration of core data structures including arrays, stacks, queues, and more. Emphasis on time complexity and efficient coding practices.
+   - Introduction to core data structures: Stack, Queue, Arrays, ArrayLists, and multidimensional arrays.
+   - Data storage in memory and operations time complexity
+   - Shallow copy vs. deep copy
+   - Practical examples and challenges for each data structure
 
 5. **Loops and Iterations**  
-   Explores iteration techniques and applications in Python, including custom endpoints and collection handling.
+   - Iterating through collections
+   - Customizing iteration endpoints
+   - Application of loops in various scenarios
 
 6. **Functions and Modular Code**  
-   Covers function creation, parameter setting, return values, and using modular code for better structure and reusability.
+   - Introduction to functions
+   - Creating and calling functions, setting parameters, and returning values
+   - Modular code organization and reusability
+   - Functions in different languages
 
-7. **Debugging and Testing**  
-   Practical techniques for debugging and creating test cases to improve code quality and reliability.
+7. **External Modules and Code Integration**  
+   - Creating and using Python modules
+   - Installing modules from PyPI using pip
+   - Example with Turtle graphics library
 
-8. **Object-Oriented Programming (OOP)**  
-   Introduction to OOP concepts in Python, including classes, objects, inheritance, and encapsulation.
+8. **Debugging and Testing**  
+   - Introduction to debugging
+   - Interpreting error messages
+   - Debugging in IDEs
+   - Creating test cases to validate code
 
-9. **AI with ChatGPT**  
-   Leveraging ChatGPT for code suggestions, debugging, and enhancement. Applying AI in real-world programming scenarios.
+9. **Object-Oriented Programming (OOP)**  
+   - Basic OOP concepts in Python
+   - Creating classes and objects
+   - Understanding inheritance, encapsulation, and polymorphism
+   - Using built-in classes and creating custom classes
+
+10. **Advanced Programming Concepts**  
+    - Memory management in programming languages
+    - Introduction to multithreading
+    - Algorithms and their applications
+
+11. **AI with ChatGPT**  
+    - Introduction to ChatGPT and its applications in coding
+    - Using ChatGPT for code refactoring, debugging, and project enhancement
+
+12. **Data Structures in Depth**  
+    - Comprehensive study of basic data structures like stacks, queues, arrays, and dynamic arrays
+    - Implementing data structures and analyzing performance
+    - Challenges and solutions for designing efficient data handling techniques
+
+13. **Career Planning and Soft Skills**  
+    - Understanding different career paths in programming
+    - Planning professional goals and skill development
+    - Essential communication and interpersonal skills for working in tech
 
 ### Projects
 
@@ -81,14 +131,21 @@ This journey is organized into modules, each focusing on specific programming fu
 
 ## Progress Tracking
 
-| Module                       | Status     |
-|------------------------------|------------|
-| Introduction to Programming  | Completed  |
-| Python Basics                | Completed  |
-| Conditional Logic            | Completed  |
-| Data Structures              | Upcoming   |
-| Loops and Iterations         | Upcoming   |
-| Functions and Modular Code   | Upcoming   |
-| Debugging and Testing        | Upcoming   |
-| Object-Oriented Programming  | Upcoming   |
-| AI with ChatGPT              | Upcoming   |
+| Module                                | Status     |
+|---------------------------------------|------------|
+| Introduction to Programming           | Completed  |
+| Python Basics                         | Completed  |
+| Conditional Logic                     | Completed  |
+| Loops and Iterations                  | Completed  |
+| Functions and Modular Code            | Completed  |
+| External Modules and Code Integration | Completed  |
+| Debugging and Testing                 | Completed  |
+| Object-Oriented Programming           | Completed  |
+| Advanced Programming Concepts         | Completed  |
+| Data Structures                       | Completed  |
+| AI with ChatGPT                       | Completed  |
+| Data Structures in Depth              | Upcoming   |
+| Career Planning and Soft Skills       | Upcoming   |
+
+Acknowledgments
+This journey is guided by the "Programming Fundamentals with Python" track by Almdrasa, with mentorship from experts in programming.
